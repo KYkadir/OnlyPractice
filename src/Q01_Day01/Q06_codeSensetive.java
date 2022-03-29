@@ -17,6 +17,6 @@ public class Q06_codeSensetive {
         System.out.println(kelimeSayisi);
 
 
-
+        //control
     }//main
 }
